@@ -3,7 +3,7 @@
 **Descrição:**
 Meu projeto de portfólio profissional é um site desenvolvido para oferecer uma experiência interativa e divertida aos usuários. Utilizando HTML,
 CSS e JavaScript, este site permite que os visitantes veja mais um pouco sobre minha pessoa e o que ando estudando e projetos que estou fazendo
-no meu dia-a-dia.
+no meu dia-a-dia para abranjer os meus conhecimentos.
 
 **Recursos Principais:**
 - Interface Interativa: O site conta com uma interface interativa e amigável, projetada para oferecer uma experiência de usuário fluida e agradável.
